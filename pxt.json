@@ -1,0 +1,21 @@
+{
+    "name": "BitRacer線迷宮",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "BitRacer": "github:51135499/bitracer#d2a9653cd8dc6265f701df77ca5f4eada81d0fc4"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
