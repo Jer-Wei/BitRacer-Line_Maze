@@ -285,5 +285,5 @@ let 簡化過 = [30]
 判斷Delay = 40
 i = 0
 轉彎PWM = 390
-serial.redirectToUSB()
 動作 = [30]
+serial.redirectToUSB()
